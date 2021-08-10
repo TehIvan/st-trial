@@ -1,0 +1,21 @@
+{
+  "name": "xpbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.0.1",
+    "glob": "^7.1.7",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "@types/glob": "^7.1.4",
+    "@types/mysql": "^2.15.19"
+  }
+}

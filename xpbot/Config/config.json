@@ -1,0 +1,11 @@
+{
+    "prefix": "!",
+    "color": "#ec9d00",
+    "footer": "Levelling System",
+    "leveling": {
+        "xp_per_message": 1,
+        "xp_cooldown_seconds": 3,
+        "xp_for_oneLevel": 2,
+        "blockCommand": true
+    }
+}
