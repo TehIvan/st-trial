@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "discord.js": "^12.5.2",
+    "ffmpeg-static": "^4.4.0",
+    "glob": "^7.1.7",
+    "ytdl": "^1.4.1",
+    "ytdl-core": "^4.9.1"
+  },
+  "name": "musicbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/glob": "^7.1.4"
+  }
+}
